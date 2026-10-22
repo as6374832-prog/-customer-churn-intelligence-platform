@@ -20,5 +20,4 @@ venv/
 app_backup.py
 app_working_backup.py
 # Dataset and generated model
-data/*.csv
 models/*.pkl
